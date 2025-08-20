@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-"# basic" 
-=======
 # basic2
->>>>>>> 844e22164351a6fb92bb38194778944cb875c43d
+
+This project contains:
+- Backend (Node.js + Express)
+- Frontend (React + Vite)
